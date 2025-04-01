@@ -6,7 +6,7 @@
 #define WIDTH 1920
 #define HEIGHT 1080
 #define MAX_ITER 1000
-#define NUM_THREADS 24
+#define NUM_THREADS 10
 
 const double X_MIN = -2.0;
 const double X_MAX = 1.0;
